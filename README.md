@@ -1,5 +1,3 @@
-# douglasbarrosgithub.io
-
 # Douglas Barros's Portfolio
 
 Welcome to my GitHub portfolio!
