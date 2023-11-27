@@ -41,7 +41,7 @@ Here, you'll find a collection of projects that showcase my skills and experienc
 - CSS3
 - JavaScript
 
-### Back-end (Soft skills)
+### Back-end (Soft Knowledge)
 - C#
 - Node JS
 
